@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to right, #a7e8be,#a6d8d4);
+}
+.logo {
+    width: 40px;
+    margin: 15px;
+}
+.pic {
+    width: 250px;
+    border-radius: 5px;
+}
+.book {
+    width: 200px;
+      margin: auto;
+      max-height: 200px;
+}
+a {
+    text-decoration: none;
+}
+.item {
+    margin: 10px;
+    width: 120px;
+    border-radius: 10px;
+    min-width: 120px;
+}
